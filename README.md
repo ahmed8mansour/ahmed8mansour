@@ -7,8 +7,7 @@
 
 - 🤝 I’m looking for help with **local projects**
 
-- 👨‍💻 All of my projects are available at [this git hub account](this git hub account)
-
+- 👨‍💻 All of my projects are available at [this git hub account]
 - 📝 I regularly write articles on [example.org](example.org)
 
 - 📫 How to reach me **a.m424134567@gmail.com**
