@@ -1,5 +1,7 @@
+[![MasterHead] (https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)]
 <h1 align="center">Hi 👋, I'm Ahmed Mansour</h1>
 <h3 align="center">A passionate frontend developer from palestine</h3>
+<img width="400" align="right" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)" alt = coding>
 
 <p align="left"> <img src="[https://komarev.com/ghpvc/?username=ahmed8mansour&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/search?q=animated+coding+gif&tbm=isch&sa=X&ved=2ahUKEwjTwse7y4uAAxUWi_0HHT0wCHwQ0pQJegQIDBAB&biw=1536&bih=763&dpr=1.25#imgrc=dbrfb5dvHO4gVM)" alt="ahmed8mansour" /> </p>
 
