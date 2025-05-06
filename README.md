@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahmad8mansour" target="blank"><img src="https://img.shields.io/twitter/follow/ahmad8mansour?logo=twitter&style=for-the-badge" alt="ahmad8mansour" /></a> </p>
 
-- 🔭 I’m currently working on ** Prescripto project**
+- 🔭 I’m currently working on **Prescripto project**
 
 - 🌱 I’m currently learning **DRF**
 
