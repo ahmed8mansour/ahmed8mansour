@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **DRF**
 
-- 🤝 I’m looking for help with **local projects**
+- 🤝 I’m looking for help with **Freelance Projects**
 
-- 👨‍💻 All of my projects are available at [this Git Hub account]
+- 👨‍💻 All of my projects are available at this Git Hub account
 
 - 💬 Ask me about **full-stack development**
 
@@ -52,9 +52,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
 
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
   </a>
 
   <!-- Redux Toolkit -->
@@ -62,6 +61,22 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux toolkit" width="40" height="40"/>
   </a>
 </p>
+  <!-- React -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+
+
+<!-- TypeScript -->
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</a>
+
+<!-- Next.js -->
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
+</a>
+
 
 <!-- Backend -->
 <h4 align="left">Backend</h4>
